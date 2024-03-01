@@ -1,7 +1,7 @@
 /*
 ===============================================================================
  Name        : FinalProject.c
- Author      : $(author)
+ Author      : $(Kashaf Mujeeb)
  Version     :
  Copyright   : $(copyright)
  Description : main definition
